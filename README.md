@@ -7,12 +7,12 @@
    (https://github.com/amilcarp2/Amilcar/blob/Project1/Project1part2.java)
    (https://github.com/amilcarp2/Amilcar/blob/Project1/Project1Part3.java)
    
-3.Project that takes inputs in order to store the data of the name,employee number, hireDate, shift, hourlyPayRate, monthlyBonus,requiredTrainingHours, attendedTrainingHours and stores it all until called upon
+ 3.Project that takes inputs in order to store the data of the name,employee number, hireDate, shift, hourlyPayRate, monthlyBonus,requiredTrainingHours, attendedTrainingHours and stores it all until called upon
 (https://github.com/amilcarp2/Amilcar/blob/Project1/Main.java)
 ( https://github.com/amilcarp2/Amilcar/blob/Project1/Employee.java)
 (https://github.com/amilcarp2/Amilcar/blob/Project1/ProductionWorker.java)
 (https://github.com/amilcarp2/Amilcar/blob/Project1/TeamLeader.java)
-4.Project that takes a customers information and stores it with their name like their name, telephone number, customer number, address, and uf they are on the mailing list
+ 4.Project that takes a customers information and stores it with their name like their name, telephone number, customer number, address, and uf they are on the mailing list
 (https://github.com/amilcarp2/Amilcar/blob/Project1/Main3.java)
 (https://github.com/amilcarp2/Amilcar/blob/Project1/Person.java)
 (https://github.com/amilcarp2/Amilcar/blob/Project1/Customer.java)
